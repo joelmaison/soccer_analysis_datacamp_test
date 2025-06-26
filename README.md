@@ -3,4 +3,6 @@
 ## About the Project
 Analyzing goal trends and testing datacamp data
 
-###### Credits:
+###### Credits: 
+
+![La Liga logo](https://assets.laliga.com/assets/logos/laliga-v/laliga-v-300x300.jpg)
